@@ -38,7 +38,7 @@ span{color:var(--cyan)}
 }
 .header-inner{height:74px;display:flex;align-items:center;justify-content:space-between;gap:20px}
 .brand img{width:205px;height:58px;object-fit:contain}
-.nav{display:flex;align-items:center;gap:21px;font-size:12px;font-weight:700}
+.nav{display:flex;align-items:center;gap:21px;font-size:14px;font-weight:700}
 .nav a{opacity:.9;transition:.2s}
 .nav a:hover{color:var(--cyan)}
 .nav-cta,.btn.primary{
